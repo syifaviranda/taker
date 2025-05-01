@@ -4381,3 +4381,12 @@
 5/1/2025 | 4:14:07 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/1/2025 | 4:14:07 PM | INFO | Trying to activate mining on-chain for wallet: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4 
 5/1/2025 | 4:14:16 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1a334662e772dc6f804a6644549e5fc4290c28f48a8286e7d5303a5e2a45951d 
+5/1/2025 | 8:11:45 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/1/2025 | 8:11:45 PM | INFO | Start process for wallet 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4 
+5/1/2025 | 8:11:46 PM | INFO | Trying To Login for wallet: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4 
+5/1/2025 | 8:11:47 PM | INFO | Login successful... 
+5/1/2025 | 8:11:47 PM | INFO | Trying to check user info... 
+5/1/2025 | 8:11:47 PM | INFO | User ID: 98844448 | Twitter: @vsyiifaa | Total Points: 1682680 
+5/1/2025 | 8:11:47 PM | INFO | Trying to check user miner status... 
+5/1/2025 | 8:11:48 PM | INFO | Last mining time: 5/1/2025, 4:14:12 PM
+5/1/2025 | 8:11:48 PM | WARN | Mining already started, next mining time is: 5/2/2025, 4:14:12 PM
