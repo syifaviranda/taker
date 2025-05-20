@@ -5455,3 +5455,12 @@
 5/20/2025 | 8:17:03 AM | INFO | Trying to activate mining on-chain for wallet: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4 
 5/20/2025 | 8:17:04 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5d","from":"0x909061f70940fed4ca3c897818cf32d41fd7f2a4","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 8:17:04 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 12:23:07 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 12:23:07 PM | INFO | Start process for wallet 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4 
+5/20/2025 | 12:23:08 PM | INFO | Trying To Login for wallet: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4 
+5/20/2025 | 12:23:09 PM | INFO | Login successful... 
+5/20/2025 | 12:23:09 PM | INFO | Trying to check user info... 
+5/20/2025 | 12:23:09 PM | INFO | User ID: 98844448 | Twitter: @vsyiifaa | Total Points: 2090680 
+5/20/2025 | 12:23:09 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 12:23:10 PM | INFO | Last mining time: 5/19/2025, 8:13:12 PM
+5/20/2025 | 12:23:10 PM | WARN | Mining already started, next mining time is: 5/20/2025, 8:13:12 PM
